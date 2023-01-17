@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1\Protos/Guestbook.cs \
+obj\Debug\netcoreapp3.1\Protos/GuestbookGrpc.cs: C:/Users/archer.li/.nuget/packages/grpc.tools/2.36.4/build/native/include/google/protobuf/timestamp.proto\
+ Protos/guestbook.proto
